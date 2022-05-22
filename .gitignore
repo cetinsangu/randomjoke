@@ -1,0 +1,8 @@
+# Dependencies
+.psci_modules
+bower_components
+.DS_STORE
+
+# Generated files
+.psci
+output
