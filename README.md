@@ -1,5 +1,4 @@
-[CLICK FOR THE LIVE PREVIEW](https://cetinsangu.github.io/randomjoke/){:target="_blank"}
-
+[CLICK FOR THE LIVE PREVIEW](https://cetinsangu.github.io/randomjoke/)
 
 # A Basic JS Fetch Project - Random Joke Teller | Joke API & Voicerss API
 
