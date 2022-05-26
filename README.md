@@ -1,5 +1,4 @@
-[Click for the LIVE PREVIEW](https://cetinsangu.github.io/randomjoke/)
-%md <a href="https://cetinsangu.github.io/randomjoke/)" target="_blank">google link</a>
+[CLICK FOR THE LIVE PREVIEW](https://cetinsangu.github.io/randomjoke/){:target="_blank"}
 
 
 # A Basic JS Fetch Project - Random Joke Teller | Joke API & Voicerss API
